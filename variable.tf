@@ -3,3 +3,7 @@ variable "resource_group" {
     default = ""
   
 }
+variable "virtualnetwork" {
+    name = vnet1
+    default = ""
+}
